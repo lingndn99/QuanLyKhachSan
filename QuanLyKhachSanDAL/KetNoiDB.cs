@@ -18,11 +18,9 @@ namespace QuanLyKhachSanDAL
         public void MoKetNoi()
         {
             if(KetNoiDB.connect == null)
-                KetNoiDB.connect = new SqlConnection(@"Data Source=DESKTOP-86M3SB6\SQLEXPRESS;Initial Catalog=QuanLyKhachSan;Integrated Security=True");
+                KetNoiDB.connect = new SqlConnection(@"Data Source=(local);Initial Catalog=QuanLyKhachSan;Integrated Security=True;User ID=sa;Password=123123");
             if (KetNoiDB.connect.State != ConnectionState.Open)       
                 KetNoiDB.connect.Open();
-            
-
         }
         //dong ket noi
         public void  DongKetNoi()

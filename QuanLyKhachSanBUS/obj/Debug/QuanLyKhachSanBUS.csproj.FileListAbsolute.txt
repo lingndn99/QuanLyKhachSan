@@ -20,3 +20,14 @@ D:\VisualStudio\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.csproj.
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.csproj.CopyComplete
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.dll
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.pdb
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanBUS.dll
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanBUS.pdb
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanDAL.dll
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanEmtyti.dll
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanDAL.pdb
+D:\QuanLyKSan\QuanLyKhachSanBUS\bin\Debug\QuanLyKhachSanEmtyti.pdb
+D:\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.csprojAssemblyReference.cache
+D:\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.csproj.CoreCompileInputs.cache
+D:\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.csproj.CopyComplete
+D:\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.dll
+D:\QuanLyKSan\QuanLyKhachSanBUS\obj\Debug\QuanLyKhachSanBUS.pdb

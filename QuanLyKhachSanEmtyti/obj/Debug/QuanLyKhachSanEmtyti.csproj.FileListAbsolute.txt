@@ -10,3 +10,9 @@ D:\VisualStudio\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.c
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.csproj.CoreCompileInputs.cache
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.dll
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.pdb
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\bin\Debug\QuanLyKhachSanEmtyti.dll
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\bin\Debug\QuanLyKhachSanEmtyti.pdb
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.csprojAssemblyReference.cache
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.csproj.CoreCompileInputs.cache
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.dll
+D:\QuanLyKSan\QuanLyKhachSanEmtyti\obj\Debug\QuanLyKhachSanEmtyti.pdb

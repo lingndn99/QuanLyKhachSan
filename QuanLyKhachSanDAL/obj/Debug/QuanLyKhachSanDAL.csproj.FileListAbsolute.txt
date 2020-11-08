@@ -16,3 +16,12 @@ D:\VisualStudio\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csproj.
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csproj.CopyComplete
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.dll
 D:\VisualStudio\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.pdb
+D:\QuanLyKSan\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.dll
+D:\QuanLyKSan\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanDAL.pdb
+D:\QuanLyKSan\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEmtyti.dll
+D:\QuanLyKSan\QuanLyKhachSanDAL\bin\Debug\QuanLyKhachSanEmtyti.pdb
+D:\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csprojAssemblyReference.cache
+D:\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csproj.CoreCompileInputs.cache
+D:\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.csproj.CopyComplete
+D:\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.dll
+D:\QuanLyKSan\QuanLyKhachSanDAL\obj\Debug\QuanLyKhachSanDAL.pdb
